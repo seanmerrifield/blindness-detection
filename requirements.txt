@@ -2,3 +2,4 @@ keras
 opencv-python
 kaggle
 pandas
+jupyter
